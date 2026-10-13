@@ -2,8 +2,6 @@
 
 <div align="center">
 
-  <img src="assets/destination.jpg" alt="PKTravels Banner" width="100%" style="border-radius: 12px; max-height: 320px; object-fit: cover;" />
-
   <br/><br/>
 
   [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
